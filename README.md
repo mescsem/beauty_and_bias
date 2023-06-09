@@ -1,6 +1,6 @@
 # Beauty and Bias: A Critical Analysis of Beauty Standards in Machine Learning
 
-The goal of this project is to analyze what drives “attractiveness” in the popular CelebA dataset, understanding how these beauty standards are embedded within and reflected into the field of Machine Learning in general, and performing a critical analysis of results - considering not only the technological but also the societal, cultural and ethical associations and implications of findings.
+The goal of this project is to analyze what drives “attractiveness” in the popular CelebA dataset, understanding how these beauty standards are embedded within and reflected into the field of Machine Learning in general, and performing a critical analysis of results considering not only the technological but also the societal, cultural and ethical associations and implications of findings.
 
 ## Background
 
